@@ -1,5 +1,5 @@
 /**
- *
+ 
  This is an implementation of a Double Ended Queue (Deque) using arrays
 
  **/
